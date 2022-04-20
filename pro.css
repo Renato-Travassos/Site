@@ -1,0 +1,39 @@
+body{
+    background:#223646;
+
+}
+nav{
+  background-color: white;
+    padding:20px 0px 19px 5px;
+}
+nav>a{
+     text-decoration: none;
+    padding-right: 166px;
+}
+div{
+
+    margin:25px 19px 4px 14px;
+    background-color: white;
+    width: 247px;
+    height: 74px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 12px;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+   text-align: center;
+    padding:31px 6px 1px 0px;
+}
+p{
+    width: 200px;
+    height: 100px;
+      color:white; 
+      position: absolute;
+}
+main{
+     width: 500px;
+  height: 700px;
+}
